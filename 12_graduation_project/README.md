@@ -2,7 +2,11 @@
 
 Используя все полученные навыки в курсе выполнить буткемп-проект. 
 
-## Часть I: [Банки: анализ оттока клиентов.Портрет лояльного клиента](https://github.com/ovalentinka/Data_analyst/blob/3e4272acf1b22cbf9e49706375ad128ead6b89b8/graduation_project/yandex_ex1_bank_karpova_new.ipynb)
+## Часть I: [Банки: анализ оттока клиентов.Портрет лояльного клиента](https://github.com/Aringol/Data_analyst/blob/main/12_graduation_project/bank_churn_graduate.ipynb)
+
+[Презентация](https://disk.yandex.ru/i/6eiQnaOJQ_--SA)
+
+[Дашборд](https://public.tableau.com/views/_16842511730040/Bank_dash?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Цель исследования
 Дать рекомендации отделу маркетинга по продуктам для привлечения лояльных клиентов
@@ -24,7 +28,7 @@
 *pandas, numpy, matplotlib, seaborn, scikit learn, scipy*
 
 
-## Часть II: [A/B-тестирование](https://github.com/ovalentinka/Data_analyst/blob/3e4272acf1b22cbf9e49706375ad128ead6b89b8/graduation_project/yandex_ex2_ab_karpova_new.ipynb)
+## Часть II: [A/B-тестирование](https://github.com/Aringol/Data_analyst/blob/main/12_graduation_project/%20A-B_graduate.ipynb)
 
 ### Цель исследования
 Проведение оценки результатов A/B-теста после введения улучшенной программы рекомендаций для региона EU.
@@ -33,7 +37,7 @@
 
 *pandas, numpy, matplotlib, seaborn, math, datetime, scipy*
 
-## Часть III: [SQL](https://github.com/ovalentinka/Data_analyst/blob/3e4272acf1b22cbf9e49706375ad128ead6b89b8/graduation_project/yandex_ex3_SQL_karpova_new.ipynb)
+## Часть III: [SQL](https://github.com/Aringol/Data_analyst/blob/main/12_graduation_project/SQL_graduate.ipynb)
 
 Проанализировать базу данных. В ней — информация о книгах, издательствах, авторах, а также пользовательские
 обзоры книг. 
